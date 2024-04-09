@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
 title: Kevin Worthington
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
